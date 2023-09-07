@@ -24,13 +24,13 @@ npm install
 1. Ahora que las dependencias están instaladas, puedes iniciar el servidor de
 desarrollo. Ejecuta el siguiente comando:
 ```
-npm expo start
+npx expo start
 ```
 2. Ahora Elige la opcion que mas te parezca para ejecutar la aplicacion.
 
 ## Bonus
 ```
-npm expo start --web
+npx expo start --web
 ```
 3. Abre el navegador web en [http://localhost:19006](http://localhost:19006). 
 Deberias ver la aplicacion de React-Native en funcionamiento.
